@@ -25,11 +25,10 @@ let handler = async (m, { conn }) => {
 *[❗] Jika Group Sepi 2 minggu, bot akan leave*
 
 ◪ *Jika Minat Hubungi owner kami*
-◪ *Atau Masuk Group Official Bot*
-_https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y_
+◪ *wa.me/6281802626072*
 
 ▌│█║▌║▌║║▌║▌║█│▌
-`.trim(), `ZeusBotz`, 'Payment', '#payment', 'Owner', '#owner', m)
+`.trim(), `aresbotz`, 'Payment', '#payment', 'Owner', '#owner', m)
 }
 
 handler.help = ['sewa', 'sewabot']
