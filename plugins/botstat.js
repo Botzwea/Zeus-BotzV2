@@ -10,8 +10,8 @@ let handler = async (m, { conn }) => {
 
     let str = `
 ┌─〔 Info Botz 〕
-│Name: ZeusBotz
-│Main Owner: Pilar
+│Name: aresbotz
+│Main Owner: ares
 │Operated Since: 19 September 2021
 │Language Used: Nodejs (JS)
 │Server: Heroku
