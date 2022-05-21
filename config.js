@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['6289625556161','62896255561613'] // Put your number here //owner eval
-global.kontak = ['6289625556161','62896255561613'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/Hsosjwbd9beiskdnsodj', ''] // ganti jadi group lu
+global.owner = ['6281802626072','62895324080019'] // Put your number here //owner eval
+global.kontak = ['6281802626072','62895324080019'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6289625556161','601164215501','60166408295','601161197507','601156232697','601172962735','60182387590','60109211153','6281391552752'] // Premium user has unlimited limit
+global.prems = ['6281802626072'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   rey: 'https://server-api-rey.herokuapp.com',
@@ -47,27 +47,27 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'https://github.com/MASTERMAN200'
+namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'Pilar Owner Bot'
-namakontak2 = 'Caca Admin Bot'
+namakontak1 = 'ares Owner Bot'
+namakontak2 = 'Lisa Admin Bot'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'Zeus Botz' // ganti aja
-global.author = 'Zeus Botz' // ganti aja
+global.packname = ' ' // ganti aja
+global.author = 'ares botz' // ganti aja
 
 //yyy
-bc = 'ZeusBotz' //ZeusBotz Broadcast
-footer = '\n© ZeusBotz'
-namabot = 'ZEUS BOTZ'
-namalu = 'PILAR'
-watermark = 'ZeusBotz' //ganti aja
+bc = 'aresbotz' //ZeusBotz Broadcast
+footer = '\n© aresbotz'
+namabot = 'aresbotz'
+namalu = 'aresbotz'
+watermark = 'aresbotz' //ganti aja
 
 // 
 wait = '_*Tunggu Sebentar...*_'
-global.botwm = 'ZeusBotz'
+global.botwm = 'aresbotz'
 global.wait = '_*Tunggu Sebentar...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
@@ -75,7 +75,7 @@ global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
-// Ubah saja SC dari AlyaaXzy
+// Ubah saja SC dari aresbotz
 global.image = 'https://telegra.ph/file/f96eee5c2c75bd32c1f58.png'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
