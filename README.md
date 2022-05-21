@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm AlyaaXzy</h1>
+<h1 align="center">Hi! 👋 I'm ARESBOTZ</h1>
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+AlyaaXzy+?+From+Indonesia.;I'am+Not+Programmer." alt="AlyaaXzy">
@@ -13,8 +13,8 @@
 </p>
 
 
-# AlyaaXzy
-Simple Rpg WhatsApp Bot AlyaaXzy
+# aresbotz
+Simple Rpg WhatsApp Bot aresbotz
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dawnfrosty/Mike-bot?label=Watchers&color=green&style=flat-square"></a>
@@ -40,7 +40,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 Tutorial YouTube
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](AlyaaXzy ?)
-## FOR TERMUX/UBUNTU/SSH USER AlyaaXzy
+## FOR TERMUX/UBUNTU/SSH USER aresbotz
 
 ```bash
 apt update && apt upgrade
@@ -48,10 +48,10 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/AlyaaXd/rfkbotV2
-cd rfkbotV2
-npm install
-npm update
+git clone https://github.com/Botzwea/Zeus-BotzV2
+cd Zeus-BotzV2
+npm i
+node .
 ```
 ---------
 
@@ -63,7 +63,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AlyaaXd/rfkbotV2-bot
+git clone https://github.com/Botzwea/Zeus-BotzV2
 cd rfkbotV2
 npm install
 npm update
